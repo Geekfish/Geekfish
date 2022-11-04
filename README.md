@@ -4,7 +4,7 @@ Thanks for stopping by 🙂
 
 # 📫 Where else to find me
 
-* 🐘 [@eleni@chaos.social](https://chaos.social/@eleni)
+* 🐘 <a ref="me" href="https://chaos.social/@eleni">Mastodon</a>
 * 🔑 [Keybase](https://keybase.io/eleni)
 
 <!---
