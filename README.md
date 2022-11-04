@@ -4,8 +4,8 @@ Thanks for stopping by 🙂
 
 # 📫 Where else to find me
 
-* 🐘[@eleni@chaos.social](https://chaos.social/@eleni)
-* 🔑[Keybase](https://keybase.io/eleni)
+* 🐘 [@eleni@chaos.social](https://chaos.social/@eleni)
+* 🔑 [Keybase](https://keybase.io/eleni)
 
 <!---
 Geekfish/Geekfish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
